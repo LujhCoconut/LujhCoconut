@@ -6,6 +6,7 @@ My name is Jiahao Lu(卢佳豪). I am currently a first-year master student in A
 
 📫 How to reach me: **[email]** `lujhcoconut@foxmail.com`  **[WeChat]** `Zephyr_Coconut`
 
+🤔 I am also actively seeking research internships related to my field of study. Welcome experts from both academia and industry to connect with me.
 <!--
 **LujhCoconut/LujhCoconut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
