@@ -6,7 +6,9 @@ My name is Jiahao Lu(卢佳豪). I am currently a first-year M.S. student in Art
 
 📫 How to reach me: **[email]** `lujhcoconut@foxmail.com`  **[WeChat]** `Zephyr_Coconut`
 
-🤔 I am also actively seeking research internships related to my field of study. Welcome experts from both academia and industry to connect with me.
+🤔 I am also actively seeking research internships related to my field of study. Welcome experts from both academia and industry to connect with me. I’m also passionate about open-source community building and computer science education.
+
+✨ Feel free to reach out via email for any related questions.
 <!--
 **LujhCoconut/LujhCoconut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
