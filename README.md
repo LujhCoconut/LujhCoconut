@@ -2,7 +2,7 @@
 
 My name is Jiahao Lu(卢佳豪). I am currently a first-year M.S. student in Artificial Intelligence at Xiamen University(XMU). My specific research focus are **computer architecture** and **operating system**.
 
-🔭 I’m currently working on tiered/heterogeneous memory system and memory reliability. I'm also interested in LLM memory management and communication.
+🔭 I’m currently working on tiered/heterogeneous/pooled memory system (CXL/HBM/3D DRAM) and memory reliability (CKPT/Prediction/EC). I'm also interested in LLM memory management and communication.
 
 📫 How to reach me: **[email]** `lujhcoconut@foxmail.com`  **[WeChat]** `Zephyr_Coconut`
 
