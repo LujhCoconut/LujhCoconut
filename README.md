@@ -2,7 +2,7 @@
 
 My name is Jiahao Lu(卢佳豪). I am currently a second-year (2024-2027) M.Eng. student in Artificial Intelligence at Xiamen University(XMU). My specific research focus are **computer architecture** and **operating system**.
 
-🔭 I’m currently working on memory pooling & tiering (CXL/HBM/3D DRAM), reliability (CKPT/Prediction/EC), ​​and address translation acceleration​​ (hybrid page table).
+🔭 I’m currently working on memory pooling & tiering (CXL/HBM/3D DRAM), reliability (CKPT/Prediction/EC), caching for sparse accelerators, ​​and address translation acceleration​​ (hybrid page table).
 
 📫 How to reach me: **[email]** `lujhcoconut@foxmail.com`  **[WeChat]** `Zephyr_Coconut`
 
