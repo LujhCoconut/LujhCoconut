@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Jiahao Lu(卢佳豪). I am currently a second-year (2024-2027) M.Eng. student in Artificial Intelligence at Xiamen University(XMU). My specific research focus are **computer architecture** and **operating system**.
+My name is Jiahao Lu (卢佳豪). I am currently a third-year (2024-2027) M.Eng. student in Artificial Intelligence at Xiamen University(XMU). My specific research focus are **computer architecture** and **operating system**.
 
 🔭 I’m currently working on memory architecture and systems. Specifically, my focus includes memory pooling and tiering (including support for AI infrastructure) and cache design for accelerators. Additionally, I’m exploring page tables, optical (fiber) memory and microkernels.
 
